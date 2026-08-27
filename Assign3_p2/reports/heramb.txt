@@ -16,4 +16,4 @@ devfs            204Ki   204Ki     0Bi   100%     704     0  100%   /dev
 map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
 /dev/disk3s3     228Gi    17Gi    21Gi    45%    459k  225M    0%   /System/Volumes/Update/mnt1
 Available Memory: 
-System Uptime: 
+System Uptime: 4h

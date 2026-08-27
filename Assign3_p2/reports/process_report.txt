@@ -1,3 +1,4 @@
 PROCESS INFORMATION REPORT
 --------------------------
 Process 'chrome' is not running.
+Fatal error
